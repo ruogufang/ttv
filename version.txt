@@ -1,0 +1,11 @@
+Version
+
+Tensor Total Variation (TTV)
+Ruogu Fang
+
+
+2014-06-21 TTV v 1.0 Submission for MICCAI 2014 and TMI first version
+
+2014-12-18 TTV v 1.1 TMI R1 V1
+ 
+2014-12-19 TTV v 1.1 TMI R1 Final
