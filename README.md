@@ -12,7 +12,9 @@ Tensor total variation deconvolution package uses a tensor total variation to ro
 
 CITATION:
 --------------
-Please cite the following papers if you use code in this SPD package.
+Please cite the following papers if you use code in this TTV package.
+
+Fang R, Zhang S, Chen T, Sanelli PC. Robust low-dose CT perfusion deconvolution via tensor total-variation regularization. IEEE transactions on medical imaging. 2015 Feb 20;34(7):1533-48.
 
 Ruogu Fang, Pina Sanelli, Shaoting Zhang, Tsuhan Chen.
 Tensor Total-Variation Regularized Deconvolution for Efficient Low-Dose CT Perfusion.
@@ -21,6 +23,18 @@ MICCAI'14, The 17th Annual International Conference on Medical Image Computing a
 
 BIBTEX:
 -----------------
+
+@article{fang2015robust,
+  title={Robust low-dose CT perfusion deconvolution via tensor total-variation regularization},
+  author={Fang, Ruogu and Zhang, Shaoting and Chen, Tsuhan and Sanelli, Pina C},
+  journal={IEEE transactions on medical imaging},
+  volume={34},
+  number={7},
+  pages={1533--1548},
+  year={2015},
+  publisher={IEEE}
+}
+
 @incollection{fang2014tensor
 year={2014},
 booktitle={Medical Image Computing and Computer-Assisted Intervention – MICCAI 2014},
